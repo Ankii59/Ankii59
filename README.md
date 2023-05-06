@@ -1,6 +1,5 @@
-# 👨‍💻 About Me:
-Experienced web developer proficient in front-end and back-end development.<br>Engineering student with a passion for creating user-friendly websites.<br>Strong work ethic, dedication, and discipline.<br>Easy-going personality and a helper by nature.<br>Committed to constantly expanding knowledge and skills in web development.<br>Ask me about web 3.0 , Graph QL , Three.js , Next.js , Blockchain <br>Fun fact " I m an Productive Overthinker"
-
+# 👨‍💻 About Me
+<br> I m an Productive Overthinker"
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-raturi-819815179/) 
@@ -16,7 +15,7 @@ Experienced web developer proficient in front-end and back-end development.<br>E
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://api.memegen.link/oprah/you_get/animated_text.gif" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ankii59&icon=3&color=6)](https://visitcount.itsvg.in)
