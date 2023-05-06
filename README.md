@@ -1,6 +1,7 @@
 # 👨‍💻 About Me
 <br> I m an Productive Overthinker"
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-raturi-819815179/) 
 
@@ -15,7 +16,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://api.memegen.link/oprah/you_get/animated_text.gif" width="512px"/>
+<!-- <img src="https://api.memegen.link/oprah/you_get/animated_text.gif" width="512px"/> -->
+<img src= "https://picsum.photos/seed/picsum/200/300"width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ankii59&icon=3&color=6)](https://visitcount.itsvg.in)
